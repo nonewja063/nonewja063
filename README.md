@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nontasan Nirarak
 ========================================================================================================================================
 
-PERSERNAL PROFILE 
+PERSERNAL PROFILE
 I have the responsibility to support network operation team , management fault alarm , trouble ticket system , report alarm and create & increase an automation system at network management center 
 
-WORK EXPERIENCE ( TRUE ) 
+WORK EXPERIENCE ( TRUE )
 - Automation leader (RPA & Increase automated ticket and fault management system) 
 - Prepare performance data of 4G,5G network 170M record to train model ML using time series forecasting (Prophet , Dask dataframe , python) 
 - Plot data neighboring cell site in network 4G on map (streamlit , pydeck , python) 
