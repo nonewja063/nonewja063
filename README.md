@@ -13,12 +13,9 @@ WORK EXPERIENCE ( TRUE ) (Now)
 
 WORK EXPERIENCE ( AIS ) (6 Year 6 Month) 
 - Automation (RPA & Increase automated ticket and fault management system)
-- Query data from database and analyze data using tableau (database Oracle, DB2 , MySQL , PostgresSQL, GaussDB )
 - Create python script generate file daily (python)
-- Using Web API get data from web production & Insert data to the DB Postgres (python) 
 - Auto assign job subsystem transmission-outside plant by data analytics & suggest cable name problem (python)
 - Using orchestrator-uipath manage robot working follow my workflow (UIPATH)
-- Support & Management NOC Engineer team ( fault alarm system , trouble ticket system )
 
 * 🌍  I'm based in Bangkok , Thailand
 * ✉️  You can contact me at (Email : nontasun@hotmail.com | LINEID : nonza063)
