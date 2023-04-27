@@ -5,19 +5,19 @@ PERSERNAL PROFILE
 I have the responsibility to support network operation team , management fault alarm , trouble ticket system , report alarm and create & increase an automation system at network management center 
 
 WORK EXPERIENCE ( TRUE ) (Now)
-- Automation leader (RPA & Increase automated ticket and fault management system) 
-- Prepare performance data of 4G,5G network 170M record to train model ML using time series forecasting (Prophet , Dask dataframe , python) 
-- Plot data neighboring cell site in network 4G on map (streamlit , pydeck , python) 
-- Script ETL inventory customer FBB 3M record (pandas , python) 
-- Create web support team monitoring using Django framework & Create REST API support team using Django rest framework (python) 
+- Automation leader (RPA & Increase automated ticket and fault management system)
+- Prepare performance data of 4G,5G network 170M record to train model ML using time series forecasting (Prophet , Dask dataframe , python)
+- Plot data neighboring cell site in network 4G on map (streamlit , pydeck , python)
+- Script ETL inventory customer FBB 3M record (pandas , python)
+- Create web support team monitoring using Django framework & Create REST API using Django rest framework (python)
 
 WORK EXPERIENCE ( AIS ) (6 Year 6 Month) 
-- Using programming (python , uipath) to create and increase percent of automation 
-- Query data from database and analyze data using tableau (database Oracle, DB2 , MySQL , PostgresSQL, GaussDB ) 
-- Create python script generate file daily 
+- Automation (RPA & Increase automated ticket and fault management system)
+- Query data from database and analyze data using tableau (database Oracle, DB2 , MySQL , PostgresSQL, GaussDB )
+- Create python script generate file daily (python)
 - Using Web API get data from web production & Insert data to the DB Postgres (python) 
-- Auto assign job subsystem transmission-outside plant by data analytics & suggest cable name problem 
-- Using orchestrator-uipath manage robot working follow my workflow 
+- Auto assign job subsystem transmission-outside plant by data analytics & suggest cable name problem (python)
+- Using orchestrator-uipath manage robot working follow my workflow (UIPATH)
 - Support & Management NOC Engineer team ( fault alarm system , trouble ticket system )
 
 * 🌍  I'm based in Bangkok , Thailand
