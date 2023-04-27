@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 PERSERNAL PROFILE
-I have the responsibility to support network operation team , management fault alarm , trouble ticket system , report alarm and create & increase an automation system at network management center 
+- I have the responsibility to support network operation team , management fault alarm , trouble ticket system , report alarm and create & increase an automation system at network management center 
 
 WORK EXPERIENCE ( TRUE ) (Now)
 - Automation leader (RPA & Increase automated ticket and fault management system)
