@@ -21,7 +21,7 @@ WORK EXPERIENCE ( AIS ) (6 Year 6 Month)
 - Support & Management NOC Engineer team ( fault alarm system , trouble ticket system )
 
 * 🌍  I'm based in Bangkok , Thailand
-* ✉️  You can contact me at [nontasun@hotmail.com | LINE : nonza063](mailto:nontasun@hotmail.com | LINE : nonza063)
+* ✉️  You can contact me at (Email : nontasun@hotmail.com | LINEID : nonza063)
 
 ### Skills
 
