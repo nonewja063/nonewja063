@@ -5,17 +5,19 @@ PERSERNAL PROFILE
 - I have the responsibility to support network operation team , management fault alarm , trouble ticket system , report alarm and create & increase an automation system at network management center 
 
 WORK EXPERIENCE ( TRUE ) (Now)
-- Automation leader (RPA & Increase automated ticket and fault management system)
-- Prepare performance data of 4G,5G network 170M record to train model ML using time series forecasting (Prophet , Dask dataframe , python)
-- Plot data neighboring cell site in network 4G on map (streamlit , pydeck , python)
-- Script ETL inventory customer FBB 3M record (pandas , python)
-- Create web support team monitoring using Django framework & Create REST API using Django rest framework (python)
+- Automation Leader responsible for RPA and increasing automation of ticket and fault management system (python , UIPATH)
+- Prepare performance data of 4G and 5G networks, consisting of 170 million records to train a machine learning model using time series forecasting (prophet , python)
+- Plot data for neighboring cell sites in a 4G network on a map (streamlit , pydeck , python)
+- ETL process for multiple source databases (python)
+- Create a web-based support team monitoring system using Django, and create REST API for support team using Django rest framework (python)
 
 WORK EXPERIENCE ( AIS ) (6 Year 6 Month) 
-- Automation (RPA & Increase automated ticket and fault management system)
+- Automation Engineer responsible for RPA and increasing automation of ticket and fault management system (python , UIPATH)
+- Create reports and dashboards in Tableau from various data sources, and analyze data (Oracle ,DB2, MySQL, PostgresSQL, GaussDB)
 - Create python script generate file daily (python)
-- Auto assign job subsystem transmission-outside plant by data analytics & suggest cable name problem (python)
-- Using orchestrator-uipath manage robot working follow my workflow (UIPATH)
+- ETL process for multiple source databases (python)
+- Auto assign job subsystem for transmission and outside plant using data analytics and suggest solutions for cable problems (python)
+- Monitoring mobile networking and transmission
 
 * 🌍  I'm based in Bangkok , Thailand
 * ✉️  You can contact me at (Email : nontasun@hotmail.com | LINEID : nonza063)
