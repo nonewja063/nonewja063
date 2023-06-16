@@ -20,7 +20,7 @@ WORK EXPERIENCE ( AIS ) (6 Year 6 Month)
 - Monitoring mobile networking and transmission
 
 * 🌍  I'm based in Bangkok , Thailand
-* ✉️  You can contact me at (Email : nontasun@hotmail.com | LINEID : nonza063)
+* ✉️  You can contact me (Email : nontasun@hotmail.com | LINEID : nonza063)
 
 ### Skills
 
