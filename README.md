@@ -40,4 +40,4 @@ WORK EXPERIENCE ( AIS ) (6 Year 6 Month)
 
 
 
-<a img src=">IOC Hotspot.drawio.svg </a>
+<a <img src="/IOC Hotspot.drawio.svg>/></a>
