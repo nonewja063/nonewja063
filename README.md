@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nontasan Nirarak
 ========================================================================================================================================
-PERSERNAL PROFILE
+PERSONAL PROFILE
 - I have the responsibility to support network operation team , manage fault alarms , trouble ticket system , report alarms , manage large datasets for KPI of network teams or performance systems  ,  and create & increase an automation system at network management center
 
 WORK EXPERIENCE ( TRUE ) (Now)
