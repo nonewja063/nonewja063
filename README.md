@@ -16,7 +16,7 @@ WORK EXPERIENCE ( AIS ) (6 Year 6 Month)
  - Create python script generate file daily (python)
  - ETL process for multiple source databases (python)
  - Auto assign job subsystem for transmission and outside plant using data analytics and suggest solutions for cable problems (python)
- - Monitoring mobile networking and transmission
+ - Monitoring mobile networking and transmission equipment
 
 * 🌍  I'm based in Bangkok , Thailand
 * ✉️  You can contact me (Email : nontasun@hotmail.com | LINEID : nonza063)
