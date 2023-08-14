@@ -7,6 +7,7 @@ WORK EXPERIENCE ( TRUE ) (Now)
  - Automation Leader responsible for RPA and increasing automation of ticket and fault management system (python , UIPATH)
  - Prepare performance data of 4G and 5G networks, consisting of 170 million records to train a machine learning model using time series forecasting  (prophet , python)
  - Plot data for neighboring cell sites in a 4G network on a map (streamlit , pydeck , python)
+ - Create reports and dashboards in PowerBI (DAX)
  - ETL process for multiple source databases (python)
  - Create a web-based support team monitoring system using Django, and create REST API for support team using Django rest framework (python)
 
