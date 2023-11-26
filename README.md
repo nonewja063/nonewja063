@@ -2,18 +2,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 PERSONAL PROFILE
   - I have the responsibility to support network operation team , manage fault alarms , trouble ticket system , report alarms , manage large datasets for KPI of network teams or performance systems  ,  and create & increase an automation system at network management center
+<br /><br />
 
-
-
-WORK EXPERIENCE ( PRINC ) | Healthcare
+WORK EXPERIENCE ( PRINC ) | Healthcare<br />
 Position : Data Engineer
   - Transform NOSQL (MongoDB) to SQL (Postgres)
   - Transform data-platform to data-warehouse (healthcare business)
   - ETL tool using dagster
+<br /><br />
 
-
-
-WORK EXPERIENCE ( TRUE ) (1 Year 4 Month)
+WORK EXPERIENCE ( TRUE ) (1 Year 4 Month)<br />
 Position : Engineer
   - Automation Leader responsible for RPA and increasing automation of ticket and fault management system (python , UIPATH)
   - Prepare performance data of 4G and 5G networks, consisting of 170 million records to train a machine learning model using time series forecasting (prophet , python)
@@ -21,10 +19,9 @@ Position : Engineer
   - Create reports and dashboards in PowerBI (DAX)
   - ETL process for multiple source databases (python)
   - Create a web-based support team monitoring system using Django, and create REST API for support team using Django rest framework (python)
+<br /><br />
 
-
-
-WORK EXPERIENCE ( AIS ) (6 Year 6 Month)
+WORK EXPERIENCE ( AIS ) (6 Year 6 Month)<br />
 Position : Senior Engineer
   - Automation Engineer responsible for RPA and increasing automation of ticket and fault management system (python , UIPATH)
   - Create reports and dashboards in Tableau from various data sources, and analyze data (Oracle ,DB2, MySQL, PostgresSQL, GaussDB)
@@ -32,7 +29,7 @@ Position : Senior Engineer
   - ETL process for multiple source databases (python)
   - Auto assign job subsystem for transmission and outside plant using data analytics and suggest solutions for cable problems (python)
   - Monitoring mobile networking and transmission
-
+<br /><br />
 
 
 * 🌍  I'm based in Bangkok , Thailand
