@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nontasan Nirarak
 ========================================================================================================================================
 PERSONAL PROFILE
-- I have the responsibility to support network operation team , manage fault alarms , trouble ticket system , report alarms , manage large datasets for KPI of network teams or performance systems  ,  and create & increase an automation system at network management center
+     I have the responsibility to support network operation team , manage fault alarms , trouble ticket system , report alarms , manage large datasets for KPI of network teams or performance systems  ,  and create & increase an automation system at network management center
+
 
 
 WORK EXPERIENCE ( PRINC ) | Healthcare
@@ -9,6 +10,7 @@ Position : Data Engineer
   - Transform NOSQL (MongoDB) to SQL (Postgres)
   - Transform data-platform to data-warehouse (healthcare business)
   - ETL tool using dagster
+
 
 
 WORK EXPERIENCE ( TRUE ) (1 Year 4 Month)
@@ -21,6 +23,7 @@ Position : Engineer
   - Create a web-based support team monitoring system using Django, and create REST API for support team using Django rest framework (python)
 
 
+
 WORK EXPERIENCE ( AIS ) (6 Year 6 Month)
 Position : Senior Engineer
   - Automation Engineer responsible for RPA and increasing automation of ticket and fault management system (python , UIPATH)
@@ -29,6 +32,7 @@ Position : Senior Engineer
   - ETL process for multiple source databases (python)
   - Auto assign job subsystem for transmission and outside plant using data analytics and suggest solutions for cable problems (python)
   - Monitoring mobile networking and transmission
+
 
 
 * 🌍  I'm based in Bangkok , Thailand
