@@ -4,7 +4,7 @@ PERSONAL PROFILE
   - I have the responsibility to support network operation team , manage fault alarms , trouble ticket system , report alarms , manage large datasets for KPI of network teams or performance systems  ,  and create & increase an automation system at network management center
 <br /><br />
 
-WORK EXPERIENCE ( PRINC ) | Healthcare<br />
+WORK EXPERIENCE ( PRINC )<br />
 Position : Data Engineer
   - Transform NOSQL (MongoDB) to SQL (Postgres)
   - Transform data-platform to data-warehouse (healthcare business)
