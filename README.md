@@ -34,7 +34,7 @@ Position : Senior Engineer
 
 
 * 🌍  I'm based in Bangkok , Thailand
-* ✉️  You can contact me (Email : nontasun@hotmail.com | LINEID : nonza063)
+* ✉️  You can contact me (Email : nontasun@gmail.com | LINEID : nonza063)
 
 ### Skills
 <p align="left">
