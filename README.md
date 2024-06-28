@@ -1,14 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nontasan Nirarak
 ========================================================================================================================================
 PERSONAL PROFILE
-  - I have the responsibility to support network operation team , manage fault alarms , trouble ticket system , report alarms , manage large datasets for KPI of network teams or performance systems  ,  and create & increase an automation system at network management center
+  I have a strong background in telecom network operations, including managing fault alarms, trouble ticket systems, and reporting, KPI tracking and have enhanced automation systems within network management centers. Additionally, I have experience in the healthcare business.
 <br /><br />
 
 WORK EXPERIENCE ( PRINC )<br />
 Position : Data Engineer
-  - Transform NOSQL (MongoDB) to SQL (Postgres)
-  - Transform data-platform to data-warehouse (healthcare business)
-  - ETL tool using dagster
+  - Managed and transformed NoSQL (MongoDB) to storage in Postgres (Dataplatform)
+  - Optimized and transformed data ETL processes using Python, SQL, and Trino (Data warehouse)
+  - Automated the migration of data from MongoDB to Postgres using Python scripts
+  - Orchestrated data workflows using Dagster
 <br /><br />
 
 WORK EXPERIENCE ( TRUE ) (1 Year 4 Month)<br />
@@ -46,7 +47,6 @@ Position : Senior Engineer
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
-
 
 ### Socials
 
