@@ -6,9 +6,9 @@ PERSONAL PROFILE<br />
 
 WORK EXPERIENCE ( PRINC )<br />
 Position : Data Engineer
-  - Managed and transformed NoSQL (MongoDB) to storage in Postgres (Dataplatform)
+  - Transformed SQL (Postgres, MSSQL,..) , NoSQL (MongoDB) to storage Postgres (Dataplatform)
   - Optimized and transformed data ETL processes using Python, SQL, and Trino (Data warehouse)
-  - Automated the migration of data from MongoDB to Postgres using Python scripts
+  - Automated the migration of process ETL MongoDB to Postgres
   - Orchestrated data workflows using Dagster
 <br /><br />
 
