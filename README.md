@@ -6,10 +6,10 @@ PERSONAL PROFILE<br />
 
 WORK EXPERIENCE ( PRINC )<br />
 Position : Data Engineer
-  - Transformed SQL (Postgres, MSSQL,..) , NoSQL (MongoDB) to storage Postgres (Dataplatform)
-  - Optimized and transformed data ETL processes using Python, SQL, and Trino (Data warehouse)
-  - Automated the migration of process ETL MongoDB to Postgres
-  - Orchestrated data workflows using Dagster
+  - Transformed other source MongoDB, MSSQL, Googlesheet.... to PostgreSQL (Dataplatform)
+  - Transformed and Optimized ETL using Python, SQL, and Trino (Data warehouse)
+  - Automated migration of process MongoDB to Postgres
+  - Orchestrated using Dagster
 <br /><br />
 
 WORK EXPERIENCE ( TRUE ) (1 Year 4 Month)<br />
@@ -18,7 +18,7 @@ Position : Engineer
   - Prepare performance data of 4G and 5G networks, consisting of 170 million records to train a machine learning model using time series forecasting (prophet , python)
   - Plot data for neighboring cell sites in a 4G network on a map (streamlit , pydeck , python)
   - Create reports and dashboards in PowerBI (DAX)
-  - ETL process for multiple source databases (python)
+  - ETL process for multiple source (python)
   - Create a web-based support team monitoring system using Django, and create REST API for support team using Django rest framework (python)
 <br /><br />
 
@@ -27,7 +27,7 @@ Position : Senior Engineer
   - Automation Engineer responsible for RPA and increasing automation of ticket and fault management system (python , UIPATH)
   - Create reports and dashboards in Tableau from various data sources, and analyze data (Oracle ,DB2, MySQL, PostgresSQL, GaussDB)
   - Create python script generate file daily (python)
-  - ETL process for multiple source databases (python)
+  - ETL process for multiple source (python)
   - Auto assign job subsystem for transmission and outside plant using data analytics and suggest solutions for cable problems (python)
   - Monitoring mobile networking and transmission
 <br /><br />
