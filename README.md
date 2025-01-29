@@ -6,10 +6,10 @@ PERSONAL PROFILE<br />
 
 WORK EXPERIENCE ( PRINC )<br />
 Position : Data Engineer
-  - Transformed other source MongoDB, MSSQL, Googlesheet.... to PostgreSQL (Dataplatform)
-  - Transformed and Optimized ETL using Python, SQL, and Trino (Data warehouse)
-  - Automated migration of process MongoDB to Postgres
-  - Orchestrated using Dagster
+  - Transformed data from various sources (NoSQL, SQL, etc.) and stored in Huawei Cloud (HWC)
+  - Developed ETL pipelines for the data warehouse using Trino and Python
+  - Automated the migration process to reduce the team's workload
+  - Managed orchestration using Dagster
 <br /><br />
 
 WORK EXPERIENCE ( TRUE ) (1 Year 4 Month)<br />
