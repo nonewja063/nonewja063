@@ -15,7 +15,7 @@ Position : Data Engineer
 WORK EXPERIENCE ( TRUE ) (1 Year 4 Month)<br />
 Position : Engineer
   - Automation Leader responsible for RPA and increasing automation of ticket and fault management system (python , UIPATH)
-  - Develop a time series model for network traffic forecasting (prophet , python)
+  - Develop time series model for network traffic forecasting (prophet , python)
   - Built interactive map dashboard for 4G cell site analysis (streamlit , pydeck)
   - Built web-based monitoring system and REST APIs for support team operations (Django, python)
   - Create reports and dashboards in PowerBI (DAX)
