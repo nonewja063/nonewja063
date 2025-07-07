@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nontasan Nirarak
 ========================================================================================================================================
 PERSONAL PROFILE<br />
-  I have a strong background in telecom network operations, including managing fault alarms, trouble ticket systems, and reporting, KPI tracking and have enhanced automation systems within network management centers. Additionally, I have experience in the healthcare business.
+  Experienced in telecom network operations with expertise in fault management, ticketing systems, reporting, and KPI tracking. Enhanced automation systems in network management centers and have healthcare industry experience. Passionate about software development and coding, particularly in automation solutions and data management.
 <br /><br />
 
 WORK EXPERIENCE ( PRINC )<br />
@@ -15,11 +15,10 @@ Position : Data Engineer
 WORK EXPERIENCE ( TRUE ) (1 Year 4 Month)<br />
 Position : Engineer
   - Automation Leader responsible for RPA and increasing automation of ticket and fault management system (python , UIPATH)
-  - Prepare performance data of 4G and 5G networks, consisting of 170 million records to train a machine learning model using time series forecasting (prophet , python)
-  - Plot data for neighboring cell sites in a 4G network on a map (streamlit , pydeck , python)
+  - Develop a time series model for network traffic forecasting (prophet , python)
+  - Built interactive map dashboard for 4G cell site analysis (streamlit , pydeck)
+  - Built web-based monitoring system and REST APIs for support team operations (Django, python)
   - Create reports and dashboards in PowerBI (DAX)
-  - ETL process for multiple source (python)
-  - Create a web-based support team monitoring system using Django, and create REST API for support team using Django rest framework (python)
 <br /><br />
 
 WORK EXPERIENCE ( AIS ) (6 Year 6 Month)<br />
