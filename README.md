@@ -16,6 +16,7 @@ WORK EXPERIENCE ( TRUE ) (1 Year 4 Month)<br />
 Position : Engineer
   - Automation Leader responsible for RPA and increasing automation of ticket and fault management system (python , UIPATH)
   - Develop time series model for network traffic forecasting (prophet , python)
+  - Managed chatbot system to check various network status for the engineering team
   - Built interactive map dashboard for 4G cell site analysis (streamlit , pydeck)
   - Built web-based monitoring system and REST APIs for support team operations (Django, python)
   - Create reports and dashboards in PowerBI (DAX)
