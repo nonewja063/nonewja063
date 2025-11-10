@@ -4,7 +4,7 @@ PERSONAL PROFILE<br />
   Experienced in telecom network operations with expertise in fault management, ticketing systems, reporting, and KPI tracking. Enhanced automation systems in network management centers and have healthcare industry experience. Passionate about software development and coding, particularly in automation solutions and data management.
 <br /><br />
 
-WORK EXPERIENCE ( PRINC )<br />
+WORK EXPERIENCE (HMS) | Oct 2023 - Oct 2025 (2Y1M)<br />
 Position : Data Engineer
   - Transformed data from various sources (NoSQL, SQL, etc.) and stored in Huawei Cloud (HWC)
   - Developed ETL pipelines for the data warehouse using Trino and Python
@@ -12,7 +12,7 @@ Position : Data Engineer
   - Managed orchestration using Dagster
 <br /><br />
 
-WORK EXPERIENCE ( TRUE ) (1 Year 4 Month)<br />
+WORK EXPERIENCE ( TRUE ) | July 2022 - Sep 2023 (1Y3M)<br />
 Position : Engineer
   - Automation Leader responsible for RPA and increasing automation of ticket and fault management system (python , UIPATH)
   - Develop time series model for network traffic forecasting (prophet , python)
@@ -22,7 +22,7 @@ Position : Engineer
   - Create reports and dashboards in PowerBI (DAX)
 <br /><br />
 
-WORK EXPERIENCE ( AIS ) (6 Year 6 Month)<br />
+WORK EXPERIENCE (AIS) | Jan 2016 - June 2022 (6Y6M)<br />
 Position : Senior Engineer
   - Automation Engineer responsible for RPA and increasing automation of ticket and fault management system (python , UIPATH)
   - Create reports and dashboards in Tableau from various data sources, and analyze data (Oracle ,DB2, MySQL, PostgresSQL, GaussDB)
