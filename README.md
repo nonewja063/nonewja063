@@ -1,7 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nontasan Nirarak
 ========================================================================================================================================
 PERSONAL PROFILE<br />
-  Experienced in telecom network operations with expertise in fault management, ticketing systems, reporting, and KPI tracking. Enhanced automation systems in network management centers and have healthcare industry experience. Passionate about software development and coding, particularly in automation solutions and data management.
+  Experienced technical professional with a track record of enhancing automation and operational systems across telecom, healthcare, and banking industries. Expertise in fault management, KPI reporting, and chatbot development. Strong passion for software engineering, focused on delivering impactful data management and automation solutions.
+<br /><br />
+
+WORK EXPERIENCE (INFINITAS) | Jan 2026 - Now <br />
+Position : Associate
+  - Manage and optimize batch processing pipelines for AML (Anti-Money Laundering) and Fraud detection (Support Virtual Bank)
+  - Utilize Python, Trino, Iceberg, Airflow for ETL operations
+  - Experience utilizing AWS core services including S3, Redshift, CloudWatch,…
+  - Gather and summarize team requirements
 <br /><br />
 
 WORK EXPERIENCE (HMS) | Oct 2023 - Oct 2025 (2Y1M)<br />
