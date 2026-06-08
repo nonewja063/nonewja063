@@ -7,8 +7,8 @@ PERSONAL PROFILE<br />
 WORK EXPERIENCE (INFINITAS) | Jan 2026 - Now <br />
 Position : Associate
   - Manage and optimize batch processing pipelines for AML (Anti-Money Laundering) and Fraud detection (Support Virtual Bank)
-  - Utilize Python, Trino, Iceberg, Airflow for ETL operations
-  - Experience utilizing AWS core services including S3, Redshift, CloudWatch,…
+  - Utilize Python, Pyspark, Trino, Iceberg, Airflow for ETL operations
+  - Experience in managing AWS core services including S3, Redshift, CloudWatch, … 
   - Gather and summarize team requirements
 <br /><br />
 
@@ -42,7 +42,7 @@ Position : Senior Engineer
 
 
 * 🌍  I'm based in Bangkok , Thailand
-* ✉️  You can contact me (Email : nontasun@gmail.com | LINEID : nonza063)
+* ✉️  You can contact me (Email : nontasun@hotmail.com | LINEID : nonza063)
 
 ### Skills
 <p align="left">
