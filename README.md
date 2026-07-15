@@ -54,8 +54,11 @@ Position : Senior Engineer
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="40" height="40" alt="Airflow" /></a>
 <a href="https://dagster.io" target="_blank" rel="noreferrer"><img src="https://github.com/nonewja063/nonewja063/assets/109946116/cf39338c-23eb-419c-ad94-409251acb27e" width="50" height="48" alt="Dagster" /></a>
 <a href="https://trino.io" target="_blank" rel="noreferrer"><img src="https://github.com/nonewja063/nonewja063/assets/109946116/36f17c71-4a79-45b8-a3ea-51ddaf7c4e56" width="40" height="40" alt="Trino" /></a>
+<a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/AWS/svg/Analytics/Redshift.svg" width="40" height="40" alt="AWS Redshift" /></a>
+<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" width="40" height="40" alt="AWS S3" /></a>
 </p>
 
 ### Socials
